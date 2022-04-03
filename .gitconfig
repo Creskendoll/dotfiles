@@ -1,0 +1,7 @@
+[user]
+	email = ken.soylu@hotmail.com
+	name = Kenan Soylu
+[core]
+	excludesfile = /home/ken/.gitignore_global
+[init]
+	defaultBranch = main
